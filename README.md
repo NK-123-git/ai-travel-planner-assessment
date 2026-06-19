@@ -102,4 +102,10 @@ The system generates a personalized packing checklist based on:
 
 ## Status
 
-This repository contains the proposed system architecture, database design, API design, and implementation strategy for the AI Travel Planner assessment.
+This repository contains the proposed system architecture, database design, API design, and proposed implementation strategy for the AI Travel Planner assessment.
+
+## Submission Note
+
+This repository presents the proposed architecture, database design, API specifications, security model, and AI integration strategy for the AI Travel Planner assessment.
+
+The submission focuses on system design, implementation planning, and engineering decision-making for the proposed solution.
